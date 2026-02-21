@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 20px;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 30px;
+}
+
+h2, h3, h4 {
+  color: darkgreen;
+}
+
+p {
+  font-size: 16px;
+  color: black;
+}
+
+ol {
+  background-color: white;
+  padding: 15px;
+  border: 2px solid gray;
+  margin: 20px 0;
+}
+
+img {
+  width: 300px;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.nelson-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
